@@ -6,5 +6,5 @@ python:
 
 script:
     - cd mypkg-ci-test
-    - pip install -e .
+    - pip install .
     - pytest
