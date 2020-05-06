@@ -26,9 +26,10 @@ def greaterThan(x, y):
     """ Return whether x is greater than y. """
 
     # Three, it's the magic number!
-    if x == 3:
-        return True
-    elif x > y:
+    #if x == 3:
+    #    return True
+    #elif x > y:
+    if x > y:
         return True
     else:
         return False
