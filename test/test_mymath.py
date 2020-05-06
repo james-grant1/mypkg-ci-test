@@ -1,6 +1,6 @@
 """ Tests for the math functions in mymodule."""
 
-from ..mymodule import *
+from mymodule import *
 
 import pytest
 

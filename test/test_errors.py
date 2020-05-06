@@ -1,6 +1,6 @@
 """ Tests for the error throwing functions in mymodule."""
 
-from ..mymodule import *
+from mymodule import *
 
 import pytest
 import sys
